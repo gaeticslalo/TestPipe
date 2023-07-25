@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # practicaHTML-CSS
 
 El reto consiste en crear una plataforma de contenido digital (solamente la
@@ -74,3 +75,6 @@ $ code .
 
 Un ejemplo de ficha de detalle puede verse haciendo click en el enlace
 _Play_ de la película de _El Joker_.
+=======
+# TestPipeline
+>>>>>>> 97db553dcf632a3ac95ec043fc6b64cfd333382b
